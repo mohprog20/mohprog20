@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Mohammed 👋
 
-<!--
-**mohprog20/mohprog20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Hashemite University (GPA: 4.0/4.0).
+I enjoy building **backend systems, real-time applications, and distributed software**, with an interest in networking and scalable system design.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, JavaScript, C#, HTML, CSS
+**Technologies:** WebRTC, Firebase
+**Tools:** Git, GitHub, VS Code, Visual Studio, Linux, VirtualBox
+
+### 🚀 Interests
+
+* Backend and distributed systems
+* Real-time communication and networking
+* System architecture and scalable software
+* Financial technology systems
+
+### 📌 Notable Projects
+
+* **Real-time peer communication system** using WebRTC and Firebase with signaling, SDP negotiation, and ICE candidate exchange
+* Computer vision hand-tracking mouse controller with Python and MediaPipe
+* **Interactive physics-based application** built with Unity and C# that reached **60k+ users**
+
+### 📫 Contact
+
+Email: [sabermohammed2007@gmail.com](mailto:sabermohammed2007@gmail.com)
